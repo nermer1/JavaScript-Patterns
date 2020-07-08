@@ -1,0 +1,15 @@
+PS D:\Project\basic\JavaScript\JavaScript-Patterns> git push -u origin master
+Logon failed, use ctrl+c to cancel basic credential prompt.
+PS D:\Project\basic\JavaScript\JavaScript-Patterns> git push -u origin master
+Logon failed, use ctrl+c to cancel basic credential prompt.
+PS D:\Project\basic\JavaScript\JavaScript-Patterns> git push -u origin master
+Enumerating objects: 7, done.
+Counting objects: 100% (7/7), done.
+Delta compression using up to 16 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (7/7), 706 bytes | 706.00 KiB/s, done.
+Total 7 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/nermer1/JavaScript-Patterns.git
+ * [new branch]      master -> master
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+PS D:\Project\basic\JavaScript\JavaScript-Patterns>
