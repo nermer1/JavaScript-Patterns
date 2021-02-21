@@ -5,6 +5,14 @@
 console.log('test', 1, {}, [1,2,3]);
 console.dir({one:1, two: { three: 3}});
 
-window.name === window['name']; // true
+/* window.name === window['name']; // true
 
-console.log(window.name === window['name']);
+console.log(window.name === window['name']); */
+
+/**
+ * javascript 함수는 일급 객체란다.
+ * 
+ * 1. 디자인 패턴
+ * 2. 코딩 패턴
+ * 3. 안티 패턴
+ */
